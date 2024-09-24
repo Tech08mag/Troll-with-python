@@ -15,4 +15,5 @@
 3. Die ausführbare Datei findet sich in dem Ordner ˋdistˋ wieder
 
 # Beachte!
-<strong>Dieses Projekt dient nur ausschließlich zu education Zwecken verwendet werden darf!</strong>
+<strong>Dieses Projekt dient ausschließlich zu education Zwecken!</strong>
+<strong>Es ist untersagt, anderen damit schaden oder ähnliches zu unternehmen</strong>
