@@ -1,7 +1,7 @@
 # Troll-with-python
 <br>
 <h1>Wie lasse ich den Code laufen?</h1>
-- Führe die main.py aus
+- Führe die main.py aus<br>
 - Done✅
 <br>
 <h1>Funktionen</h1>
