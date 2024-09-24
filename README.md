@@ -11,7 +11,7 @@
 <h1>Wie mache ich eine ausführbare Datei daraus?</h1>
 1. Python-Libary ˋpyinstallerˋ installieren<br>
 2. Folgender command muss aus dem home-Verzeichnis des Projektes im Terminal ausgeführt werden<br>
-ˋpyinstaller --onefile main.py -y -w -n="Troll"ˋ
+ˋpyinstaller --onefile main.py -y -w -n="Troll"ˋ<br>
 3. Die ausführbare Datei findet sich in dem Ordner ˋdistˋ wieder
 
 # Beachte!
