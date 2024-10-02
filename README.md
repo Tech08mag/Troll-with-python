@@ -20,3 +20,6 @@
 
 <strong>Dieses Projekt dient ausschließlich zu education Zwecken!</strong><br>
 <strong>Es ist untersagt, anderen damit schaden oder ähnliches zu unternehmen</strong>
+
+# Erstellt von tech08mag
+<img src="https://github.com/Tech08mag/Tech08mag/blob/main/profile.jpeg" alt="Profile">
